@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../event-bus"
+		},
+		{
+			"path": "../comments"
+		},
+		{
+			"path": "../post"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../moderation"
+		}
+	],
+	"settings": {}
+}
